@@ -137,3 +137,7 @@ Response (example):
 
 Ambarish S A
 Computer Science Engineer | Automation & AI Enthusiast
+
+## 📜 License
+
+This project is licensed under the MIT License.

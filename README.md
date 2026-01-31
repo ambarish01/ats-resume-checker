@@ -30,6 +30,8 @@ This project demonstrates real-world backend development skills such as API desi
 
 ## 📂 Project Structure
 
+```bash
+
 ats-resume-checker/
 │
 ├── main.py # FastAPI application and API routes
@@ -38,6 +40,8 @@ ats-resume-checker/
 ├── requirements.txt # Project dependencies
 ├── .gitignore
 └── README.md
+
+```
 
 
 ---
